@@ -10,7 +10,7 @@
 
 ## Por que NoSQL (MongoDB)?
 
-MongoDB é uma boa opção para nosso caso de uso porque não precisamos realmente de um relacionamento entre dados, mas precisamos de velocidade rápida de leitura e gravação.
+MongoDB é uma boa opção para nosso caso de uso. Porque não precisamos realmente de um relacionamento entre dados, mas precisamos de velocidade rápida de leitura e gravação.
 
 ## Funcionalidades:
 
